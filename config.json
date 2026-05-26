@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "carteonnect",
+        "uuid": 1443050,
+        "checksum": "zgy9kl"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
